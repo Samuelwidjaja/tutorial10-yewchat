@@ -10,4 +10,4 @@
 
 ![alt text](image.png)
 
-Mengubah warna backgroung menjadi merah oranye
+Mengubah warna background menjadi merah oranye
